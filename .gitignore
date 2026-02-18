@@ -1,0 +1,11 @@
+*/build/
+
+hybrid-HE-framework/*
+hybrid-HE-framework/build/*
+hybrid-HE-framework/ciphers/*
+hybrid-HE-framework/tests/*
+hybrid-HE-framework/thirdparty/*
+hybrid-HE-framework/util/*
+hybrid-HE-framework/thirdparty/m4ri/installed/*
+hybrid-HE-framework/thirdparty/m4ri/installed/include/m4ri/m4ri_config.h
+hybrid-HE-framework/thirdparty/m4ri/installed/lib/*

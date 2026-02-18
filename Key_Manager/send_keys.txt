@@ -1,0 +1,8 @@
+// Client 3B
+scp -r ./storage_keys/ fahrzeugflotte@192.168.178.48:~/Documents/decision_framework_hhe_he/Client/build/
+// Client Zero
+scp -r ./storage_keys/ fahrzeugflotte@192.168.178.52:~/Documents/decision_framework_hhe_he/Client/build/
+// Server
+cp -r ./storage_keys/ ../../Server/build/
+// TTP
+cp -r ./storage_keys/ ../../TTP/build/
